@@ -1,4 +1,4 @@
-propriedade amaemi<p>
+<b>propriedade amaemi<p><b>
 <p>AMANDA & EMILLY<p>
-<p><b>The cake is a lie.<b><p>
+<p>The cake is a lie.<p>
 <p>estudantes de pensamento computacional :)
